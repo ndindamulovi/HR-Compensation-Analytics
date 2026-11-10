@@ -350,7 +350,7 @@ Screenshots of the completed Power BI dashboard are displayed below.
 
 
 
-!\[Executive Overview](images/Executive_overview.png)
+![Executive Overview](images/Executive_overview.png)
 
 
 
@@ -358,7 +358,7 @@ Screenshots of the completed Power BI dashboard are displayed below.
 
 
 
-!\[Department and Workforce Analysis](images/Workforce_analysis.png)
+![Department and Workforce Analysis](images/Workforce_analysis.png)
 
 
 
@@ -366,7 +366,7 @@ Screenshots of the completed Power BI dashboard are displayed below.
 
 
 
-!\[Compensation \& Pay Equity](images/Pay_equity.png)
+![Compensation & Pay Equity](images/Pay_equity.png)
 
 
 
@@ -374,7 +374,7 @@ Screenshots of the completed Power BI dashboard are displayed below.
 
 
 
-!\[Employee Details](images/Employee_details.png)
+![Employee Details](images/Employee_details.png)
 
 
 
