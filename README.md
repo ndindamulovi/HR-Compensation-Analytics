@@ -122,27 +122,15 @@ Analytical calculations were handled using DAX measures.
 
 The following measures were created to support the analysis:
 
-
-
 | Measure | Purpose |
-
 |---|---|
-
 | Employee Headcount | Calculates the distinct number of employees. |
-
 | Total Annual Rewards | Calculates total annual employee rewards. |
-
 | Average Monthly Gross Salary | Calculates average monthly gross compensation. |
-
 | Average Annual Total Reward | Calculates average annual total reward per employee. |
-
 | Average Compa-Ratio | Calculates the average compa-ratio. |
-
 | Average Annual Bonus | Calculates the average annual bonus. |
-
 | Employee Percentage | Calculates each department's share of the workforce. |
-
-
 
 \## Dashboard Structure
 
